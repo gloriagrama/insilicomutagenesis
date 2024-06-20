@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[29]:
-
-
-# then run through model, pull-out the CAGE-seq experiment, at TSS position values, and save to a list
-# Afterwards, would get difference from baseline, and plot 
-
 
 # ### imports
 
