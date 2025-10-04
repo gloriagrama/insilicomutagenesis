@@ -4,7 +4,7 @@ Standard CRISPR Tiling Deletion screens are both expensive and time-intensive. U
 Talk given at Salk 2024 SURF Capstone Presentation and can be watched [here](https://watch.salk.edu/media/t/1_u5yxkpgm/350492942).
 
 Predicted CAGE-seq assay detection along GATA3 after ISM:
-![ISM results](/insilicomutagenesis/additional_materials/ism_result.png)  
+![ISM results](additional_materials/ism_result.png)  
 
 False Discovery Rate:
-![confusion_matrix](/insilicomutagenesis/additional_materials/confusion_matrix.png)
+![confusion_matrix](additional_materials/confusion_matrix.png)
